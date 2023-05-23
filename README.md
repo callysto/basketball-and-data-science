@@ -1,1 +1,3 @@
-# basketball-and-data-science
+# Basketball and Data Science
+
+Using basketball statistics to learn data science.
