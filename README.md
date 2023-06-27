@@ -14,4 +14,4 @@ Using basketball statistics to learn data science.
 1. [Generative AI for Programming and Data Science](https://callysto.github.io/basketball-and-data-science/retro/notebooks/?path=08-generative-ai.ipynb)
 1. [Machine Learning and Predictive Models](https://callysto.github.io/basketball-and-data-science/retro/notebooks/?path=09-machine-learning.ipynb)
 1. [Project: Analyzing Basketball Performance](https://callysto.github.io/basketball-and-data-science/retro/notebooks/?path=10-data-science-project.ipynb)
-    * [Example Projects](examples)
+    * [Example Projects](content/examples)
